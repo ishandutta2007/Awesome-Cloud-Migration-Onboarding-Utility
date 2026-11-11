@@ -67,7 +67,7 @@ The table below lists leading commercial SaaS migration tools sorted by **Compan
 
 Community-maintained utilities, database loaders, schema migration frameworks, and server-to-server data synchronization engines. Sorted by **GitHub Stargazers (Descending)**.
 
-| Project | GitHub Stars | Primary Use Case | Supported Environments & Storage Engines |
+| Project | GitHub_Stars | Primary Use Case | Supported Environments & Storage Engines |
 |:---|:---|:---|:---|
 | **[rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | "rsync for cloud storage" — high-speed multi-threaded synchronization, transfer, and migration of files and blobs. | S3, Google Drive, Azure Blob, Dropbox, Backblaze B2, SFTP, WebDAV, 70+ storage providers |
 | **[Airbyte](https://github.com/airbytehq/airbyte)** | [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | ELT data movement and data warehouse onboarding platform with 300+ pre-built connectors. | Snowflake, BigQuery, Redshift, PostgreSQL, MySQL, S3, APIs |
@@ -114,7 +114,7 @@ We actively welcome contributions from devops engineers, migration specialists, 
 2. 🌿 **Create a dedicated topic branch** (`git checkout -b feature/add-migration-tool`).
 3. 📝 **Add your entry** following the tabular format:
    - Include specific pricing, exact free tier / trial boundaries, and verified links.
-   - For open-source tools, include the official repository URL and star count badge.
+   - For open-source tools, include the official repository URL and Stars_Count badge.
 4. 🧪 **Check markdown syntax and link validity**.
 5. 🚀 **Submit a Pull Request** with a brief overview of why the tool is beneficial.
 
